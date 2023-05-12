@@ -29,8 +29,8 @@ MongoDB: A NoSQL database used to store data
 TypeScript: A strongly typed superset of JavaScript that adds optional static typing to the language
 
 # Team Members
-Margaritis Argyrou, 
 Hannah Carter, 
+Margaritis Argyrou, 
 Hannah Lawrence, 
 Jake Maciver, 
 Bradley Weidner
